@@ -20,6 +20,6 @@ Este projeto é uma **Pokedex interativa** desenvolvida com **HTML, CSS e JavaSc
 3. Veja seus status como HP, Ataque e Defesa.
 
 ## 🔗 Link de Acesso
-https://fezao100.github.io/Pokedex_PokeAPI/
+### https://fezao100.github.io/Pokedex_PokeAPI/
 ---
 
