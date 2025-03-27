@@ -18,5 +18,8 @@ Este projeto é uma **Pokedex interativa** desenvolvida com **HTML, CSS e JavaSc
 1. A página inicial exibe uma lista de Pokémons.
 2. Clique em um Pokémon para visualizar seus detalhes.
 3. Veja seus status como HP, Ataque e Defesa.
+
+## 🔗 Link de Acesso
+https://fezao100.github.io/Pokedex_PokeAPI/
 ---
 
